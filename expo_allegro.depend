@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427471745 source:/home/edwin/Documents/expo_allegro/main.cpp
+	<stdio.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
